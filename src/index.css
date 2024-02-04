@@ -1,0 +1,26 @@
+.countdown-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.countdown-input {
+  width: 50%;
+  padding: 5px;
+  margin: 10px;
+  font-size: 18px;
+}
+
+.countdown-display {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.countdown-button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 18px;
+  cursor: pointer;
+}
